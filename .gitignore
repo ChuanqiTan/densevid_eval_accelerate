@@ -1,0 +1,12 @@
+.vscode
+*.pyc
+big_sample.json
+small_sample.json
+
+coco-caption/README.md
+coco-caption/_gitignore
+coco-caption/annotations/
+coco-caption/cocoEvalCapDemo.ipynb
+coco-caption/license.txt
+coco-caption/pycocotools/
+coco-caption/results/
